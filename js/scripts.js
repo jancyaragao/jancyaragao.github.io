@@ -11,4 +11,7 @@ jQuery(function ($) {
     }());
 
 
+    var year_now = new Date().getFullYear();
+    $("#year").html(year_now);
+
 }); // JQuery end
