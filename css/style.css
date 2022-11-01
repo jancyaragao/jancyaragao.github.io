@@ -295,7 +295,7 @@ button:focus,
     right: 0;
     width: 100%;
     margin: 0 auto;
-    padding: 10%;
+    padding: 16%;
 }
 
 .header .content h1 {
@@ -327,7 +327,7 @@ button:focus,
 
 .header .content .social-icon li a {
     display: block;
-    font-size: 12px;
+    font-size: 16px;
     color: #ffffff;
     width: 34px;
     height: 34px;
